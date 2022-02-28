@@ -4,3 +4,5 @@ c line 3
 d line 4
 adding local line 1
 adding local line 2
+e remote line 1
+f remote line 3
