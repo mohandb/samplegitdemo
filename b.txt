@@ -2,3 +2,5 @@ b line 1
 b line 2
 c line 3
 d line 4
+adding local line 1
+adding local line 2
